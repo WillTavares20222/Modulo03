@@ -1,0 +1,29 @@
+body{
+    /* height: 98vh;
+    background-color: black;
+    background-image: url("imagem/wallpaper002.jpg");
+    background-position: center top;
+    background-repeat: repeat-y;
+    background-size: 100% 100%;
+    background-size: auto;
+    background-size: contain;
+    background-size: cover;
+    background-attachment:fixed ;
+    */
+    
+    /* shorthand, color, img, position, repeat, size, attachament*/
+    background: black url('imagem/wallpaper002.jpg') center center no-repeat fixed;
+    background-size: cover;
+}
+
+main{
+    background-color: white;
+    max-width: 500px;
+    padding: 10px;
+    margin: auto;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
