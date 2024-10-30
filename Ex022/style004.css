@@ -1,0 +1,18 @@
+body{
+    background-color: black;
+    height: 100vh;
+
+    background-image: url('https://img.freepik.com/premium-photo/colorful-wolf-with-black-background-wallpaper_590614-3875.jpg?w=740');
+    background-size: 300px;
+    background-repeat: no-repeat ;
+    background-position: center center;
+    background-position: center right;
+    background-position:center left;
+    background-position: right center;
+    background-position: right bottom;
+    background-position: left center;
+    background-position: right center;
+    background-position: left bottom;
+    background-position: right bottom
+}
+

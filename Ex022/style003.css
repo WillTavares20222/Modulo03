@@ -1,0 +1,29 @@
+body{
+    background-color: black;
+}
+
+div.bloco{
+    height: 200px;
+    border: 1px solid white;
+    margin: 10px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    background-image: url("imagem/wallpaper002.jpg");
+}
+
+div#q1{
+    background-position: left top;
+}
+
+div#q2{
+    background-position: left center;
+}
+div#q3{
+    background-position: right bottom;
+}
+div#q4{
+    background-position: center center;
+}
