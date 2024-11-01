@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+    color: white;
+}
+table{
+    border-collapse: collapse;
+
+}
+
+caption{
+    font-size: 1.2em;
+    font-weight: bolder;
+    padding: 20px;
+}
+th, td{
+    border: 1px solid white;
+    padding: 10px;
+}
+thead, tr:nth-child(even){
+    background-color: rgba(0, 255, 255, 0.289);
+}
+
+div#container{
+    overflow-x: auto;
+}

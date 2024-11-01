@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+table{
+    border-collapse: collapse;
+    width: 300px;
+    border-collapse: collapse;
+    position: relative;
+}
+
+td{
+    border: 1px solid white;
+    padding: 10px;
+    text-align: center;
+}
+tr{
+    padding: 5px;
+}

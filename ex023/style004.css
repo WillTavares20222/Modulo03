@@ -1,0 +1,31 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+caption{
+    padding: 20px;
+    font-size: 1.3em;
+    font-weight: bold;
+}
+table{
+    width: 500px;
+    border-collapse: collapse;
+    position: relative;
+}
+
+td, th{
+    border: 1px solid white;
+    padding: 10px;
+}
+
+col.cnome{
+    background-color: rgba(128, 255, 0, 0.242);
+}
+col.csexo, col.cidade{
+    background-color: rgba(25, 0, 255, 0.384);
+}
+col.cgrupo{
+    background-color: rgba(255, 255, 0, 0.384);
+}
